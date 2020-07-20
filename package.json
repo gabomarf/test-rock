@@ -1,0 +1,12 @@
+{
+  "name": "postulacion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test1": "node CompositeFunction.js",
+    "test2": "node LongestString.js",
+    "test3": "node StringRepetition.js",
+    "test4": "node OnlyLastNames.js",
+    "test5": "node UniqueNumbers.js"
+  }
+}
